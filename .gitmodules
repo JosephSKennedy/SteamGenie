@@ -1,0 +1,3 @@
+[submodule "Code/SteamAPIWrapper"]
+	path = Code/SteamAPIWrapper
+	url = https://github.com/naiyt/steamapiwrapper.git
