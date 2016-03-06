@@ -1,0 +1,62 @@
+c:\Users\Boom\Programming\SteamWishlist\env\Scripts
+C:\ProgramData\Oracle\Java\javapath
+C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common
+C:\Program Files (x86)\Haskell\bin
+C:\Program Files (x86)\Haskell Platform\2013.2.0.0\lib\extralibs\bin
+C:\Program Files (x86)\Haskell Platform\2013.2.0.0\bin
+C:\Program Files (x86)\Intel\iCLS Client\
+C:\Program Files\Intel\iCLS Client\
+C:\WINDOWS\system32
+C:\WINDOWS
+C:\WINDOWS\System32\Wbem
+C:\WINDOWS\System32\WindowsPowerShell\v1.0\
+C:\Program Files\Intel\Intel(R) Management Engine Components\DAL
+C:\Program Files\Intel\Intel(R) Management Engine Components\IPT
+C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL
+C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT
+C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86
+C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64
+C:\Program Files\Lenovo\Bluetooth Software\
+C:\Program Files\Lenovo\Bluetooth Software\syswow64
+C:\Program Files (x86)\Haskell Platform\2013.2.0.0\mingw\bin
+C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin
+C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\
+C:\Program Files\Microsoft SQL Server\110\Tools\Binn\
+C:\Program Files (x86)\Microsoft SDKs\TypeScript\1.0\
+C:\Program Files\Microsoft SQL Server\120\Tools\Binn\
+C:\Program Files\nodejs\
+C:\Users\Boom\Programming\Dwimperl\perl\bin
+C:\Users\Boom\Programming\Dwimperl\perl\site\bin
+C:\Users\Boom\Programming\Dwimperl\c\bin
+C:\Program Files (x86)\Skype\Phone\
+C:\Users\Boom\Anaconda3
+C:\Users\Boom\Anaconda3\Scripts
+C:\Users\Boom\Anaconda3\Library\bin
+C:\Users\Boom\AppData\Local\Programs\Python\Python35-32\Scripts\
+C:\Users\Boom\AppData\Local\Programs\Python\Python35-32\
+C:\ProgramData\Oracle\Java\javapath
+C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common
+C:\Program Files (x86)\Haskell\bin
+C:\Program Files (x86)\Haskell Platform\2013.2.0.0\lib\extralibs\bin
+C:\Program Files (x86)\Haskell Platform\2013.2.0.0\bin
+C:\Program Files (x86)\Intel\iCLS Client\
+C:\Program Files\Intel\iCLS Client\
+C:\WINDOWS\system32
+C:\WINDOWS
+C:\WINDOWS\System32\Wbem
+C:\WINDOWS\System32\WindowsPowerShell\v1.0\
+C:\Program Files\Intel\Intel(R) Management Engine Components\DAL
+C:\Program Files\Intel\Intel(R) Management Engine Components\IPT
+C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL
+C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT
+C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86
+C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64
+C:\Program Files\Lenovo\Bluetooth Software\
+C:\Program Files\Lenovo\Bluetooth Software\syswow64
+C:\Program Files (x86)\Haskell Platform\2013.2.0.0\mingw\bin
+C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin
+C:\Program
+C:\Users\Boom\Android\android-sdks\platform-tools
+C:\Python27\
+C:\Users\Boom\Programming\Processing\java\bin
+C:\Program Files (x86)\Git\bin

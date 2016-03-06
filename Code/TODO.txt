@@ -1,0 +1,5 @@
+1. Get user account information
+2. Login to user acccount
+3, Get user wishlist
+4. Evaluate games based on selected heuristic
+5. Place games into CSV file(/Microsoft Excel?) in order
