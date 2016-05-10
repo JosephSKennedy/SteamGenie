@@ -5,7 +5,7 @@ The current heuristic is as follows: For each game in your wishlist, Wishlist_Ra
 The steamapiwrapper project is used for its Python wrapper of the Steam API 
 
 
-To be added:
-	Additional heuristic
-	Looking through a friend's or friends' wishlists
-	Adding a budget?
+To be added:  
+	..*Additional heuristic  
+	..*Looking through a friend's or friends' wishlists  
+	..*Adding a budget?  
