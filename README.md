@@ -6,6 +6,6 @@ The steamapiwrapper project is used for its Python wrapper of the Steam API
 
 
 To be added:  
-	..* Additional heuristic  
-	..* Looking through a friend's or friends' wishlists  
-	..* Adding a budget?  
+	- Additional heuristic  
+	- Looking through a friend's or friends' wishlists  
+	- Adding a budget?  
